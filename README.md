@@ -85,18 +85,6 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
 
 
 
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=ishant1809&show_icons=true&theme=shadow_blue)  
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishant1809&theme=shadow_blue)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant1809&layout=compact&theme=shadow_blue)  
-
-###
-
 <img src="https://raw.githubusercontent.com/ishant1809/ishant1809/output/snake.svg" alt="Snake animation" />
 
 ###
