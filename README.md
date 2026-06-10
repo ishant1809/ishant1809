@@ -89,6 +89,4 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ishant1809/count.svg?" />
-</div>
+![](https://komarev.com/ghpvc/?username=ishant1809&label=Profile%20views&color=0e75b6&style=flat)
