@@ -90,17 +90,17 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishant1809&show_icons=true&theme=tokyonight" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant1809&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ishant1809/ishant1809/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg?" />
+  <img src="https://profile-counter.glitch.me/ishant1809/count.svg?" />
 </div>
