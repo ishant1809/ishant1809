@@ -63,6 +63,9 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discordjs logo" />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   
