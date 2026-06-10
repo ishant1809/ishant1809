@@ -22,9 +22,6 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
 ###
 
 <div align="left">
-  <a href="https://github.com/ishant1809" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-  </a>
 
   <a href="https://www.linkedin.com/in/ishant-bhandari-048841336/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
