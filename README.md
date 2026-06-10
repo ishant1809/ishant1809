@@ -89,11 +89,11 @@ My name is Ishant Bhandari and I'm a B.Tech Computer Science student passionate 
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishant1809&show_icons=true&theme=tokyonight" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant1809&layout=compact&theme=tokyonight" height="150" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ishant1809&show_icons=true&theme=shadow_blue)  
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishant1809&theme=shadow_blue)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant1809&layout=compact&theme=shadow_blue)  
 
 ###
 
